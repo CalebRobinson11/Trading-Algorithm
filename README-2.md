@@ -1,4 +1,6 @@
 # 📈 Portfolio Trading Algorithm
+# First time building a trading algorithm
+
 
 This project implements a backtestable portfolio trading algorithm using Python and financial data from Yahoo Finance. The algorithm incorporates common technical indicators like Exponential Moving Averages (EMAs) and Relative Strength Index (RSI), with built-in risk management techniques such as volatility targeting and trailing stop-loss.
 
