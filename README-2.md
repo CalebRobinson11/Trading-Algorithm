@@ -72,6 +72,3 @@ python TradingAlgo2.py
 - This strategy is for educational purposes and not financial advice.
 - You can extend the script to handle multiple tickers or apply portfolio optimization.
 
-## 📃 License
-
-MIT License © [Your Name]
